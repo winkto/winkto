@@ -1,4 +1,4 @@
 # spring cloud config
 person:
-  name: winkto
+  name: winkto@126.com
   age: 21
